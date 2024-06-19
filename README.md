@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left"> 📚 I'm currently learning: PHP and figuring out how to connect it to a database <br>🎯 Goals: I'm looking to improve my Python ability and maybe learn C <br></p>
+<p align="left"> 📚 I'm Currently Learning: About SQLite and using it in Python <br>🎯 Goals: I want to learn C! <br></p>
 
 ###
 
